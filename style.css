@@ -1,0 +1,38 @@
+body{
+  background-color: lavender;
+}
+.ina{
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+}
+
+.in {
+  width: 250px;
+  padding: 20px;
+  background-color: mediumpurple;
+  border-top: solid 5px #dfdfdf;
+  transition: background-color 0.2s, margin-left 0.5;
+}
+
+.in:hover{
+  background-color: purple;
+  margin-left: 10px;
+}
+
+ul{
+  float: left;
+  list-style: none;
+  padding: 5px;
+}
+
+.icon{
+  display: inline-block;
+  text-align: center;
+  width: 200px;
+  margin: 60px;
+}
+
+img{
+  height:
+}
